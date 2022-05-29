@@ -1,7 +1,7 @@
 /*Fazer um algoritmo que leia dois números L e R. O programa deve verificar a maior área entre um quadrado
 de lado L e um círculo de raio R. Imprimir na tela qual o maior: "Quadrado" ou "Círculo".
 */
-package com.senac.sp.algor1.aulasalgoritimos_1.ExerciciosAula_2;
+package org.senac.ListaExerciciosAula_1;
 
 import java.util.Scanner;
 

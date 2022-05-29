@@ -1,6 +1,6 @@
 /*Fazer um algoritmo que lê um número e verifica se ele é negativo. Se for negativo, imprimir na tela a
 mensagem "Numero negativo"*/
-package com.senac.sp.algor1.aulasalgoritimos_1.ExerciciosAula_2;
+package org.senac.ListaExerciciosAula_1;
 
 import java.util.Scanner;
 

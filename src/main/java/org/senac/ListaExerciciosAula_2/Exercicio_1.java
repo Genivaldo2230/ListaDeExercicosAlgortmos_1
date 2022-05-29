@@ -1,4 +1,4 @@
-package org.example;
+package org.senac.ListaExerciciosAula_2;
 // EXERCICIO #-1 PDF -2
 // Faça um programa que mostre todos os números inteiros de 1 a 50. Use o laço WHILE.
 

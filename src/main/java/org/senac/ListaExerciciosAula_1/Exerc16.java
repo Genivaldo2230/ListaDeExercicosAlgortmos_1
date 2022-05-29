@@ -11,7 +11,7 @@ import java.util.Scanner;
  */
 public class Exerc16 {
 
-    private static String duraçaoJogo;
+    private static String duracaoJogo;
     private static double aoJogo;
 
     /**
@@ -22,7 +22,7 @@ public class Exerc16 {
 
         Scanner sc = new Scanner(System.in);
 
-        double horaInicial, horaFinal, duraçaoJogo;
+        double horaInicial, horaFinal, duracaoJogo;
 
         System.out.println("DuraÃ§Ã£o do jogo");
         System.out.println("Digite a hora inicial: ");
@@ -30,12 +30,18 @@ public class Exerc16 {
         System.out.println("Digite a hora final: ");
         horaFinal = sc.nextDouble();
 
-        duraçaoJogo = 24 - (24 + horaInicial - horaFinal) % 24;
+        duracaoJogo = 24 - (24 + horaInicial - horaFinal) % 24;
         if (horaInicial == horaFinal) {
             System.out.println("O JOGO DUROU 24 HORAS : ");
         } else {
 
-            System.out.println("O JOGO DUROU %d HORAS\n: " + duraçaoJogo);
+            System.out.println("O JOGO DUROU %d HORAS\n: " + duracaoJogo);
+        }
+    }
+
+    private static class aoJogo {
+
+        public aoJogo() {
         }
     }
 }

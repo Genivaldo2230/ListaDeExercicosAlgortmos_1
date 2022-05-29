@@ -1,7 +1,7 @@
 /*Escreva um programa que leia o número de cadastro de um funcionário, seu número de horas trabalhadas,
 o valor que recebe por hora e calcula o salário desse funcionário. A seguir, mostre na tela o número e o
 salário do funcionário.*/
-package com.senac.sp.algor1.aulasalgoritimos_1.ExerciciosAula_2;
+package org.senac.ListaExerciciosAula_1;
 
 import java.util.Scanner;
 

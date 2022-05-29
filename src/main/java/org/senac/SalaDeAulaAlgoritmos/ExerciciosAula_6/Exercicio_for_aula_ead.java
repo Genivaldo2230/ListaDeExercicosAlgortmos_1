@@ -2,7 +2,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
-package Exercicio_Aula_7_lista_pdf;
+package org.senac.SalaDeAulaAlgoritmos.ExerciciosAula_6;
 
 import java.util.Scanner;
 

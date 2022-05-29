@@ -1,4 +1,4 @@
-package com.senac.sp.algor1.ExerciciosAula_6;
+package org.senac.SalaDeAulaAlgoritmos.ExerciciosAula_6;
 // data 10-05-2022 aula
 import java.util.Scanner;
 public class EncontraFuncoes {

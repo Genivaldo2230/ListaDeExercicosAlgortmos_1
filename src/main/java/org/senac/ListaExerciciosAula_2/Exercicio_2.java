@@ -1,4 +1,4 @@
-package org.example;
+package org.senac.ListaExerciciosAula_2;
 
 import java.util.Scanner;
 

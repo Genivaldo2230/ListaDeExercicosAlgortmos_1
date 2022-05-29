@@ -1,4 +1,4 @@
-package com.senac.sp.algor1.ListaExerciciosAula_2;
+package org.senac.ListaExerciciosAula_2;
 
 import javax.swing.*;
 

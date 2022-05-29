@@ -1,4 +1,4 @@
-package ExerciciosAula_8_Funcoes;
+package org.senac.SalaDeAulaAlgoritmos.ExerciciosAula_8;
 
 //Exercicio em aula 24/05/2022
 
