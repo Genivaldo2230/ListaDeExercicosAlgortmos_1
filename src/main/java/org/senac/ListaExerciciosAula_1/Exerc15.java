@@ -34,11 +34,11 @@ public class Exerc15 {
 
          if (raiz > 0 || a != 0) {
             double resultadoRaiz = Math.sqrt(raiz);
-            double soluçao1 = (-b + resultadoRaiz) / (2 * a);
-            double soluçao2 = (-b - resultadoRaiz) / (2 * a);
-            System.out.println("Os valores das raízes são: " + soluçao1 + " e " + soluçao2);
+            double solucao1 = (-b + resultadoRaiz) / (2 * a);
+            double solucao2 = (-b - resultadoRaiz) / (2 * a);
+            System.out.println("Os valores das raizes sao: " + solucao1 + " e " + solucao2);
         } else {
-            System.out.println("Impossível calcular");
+            System.out.println("Impossï¿½vel calcular");
         }
     }
 }
