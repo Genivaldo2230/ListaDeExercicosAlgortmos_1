@@ -1,4 +1,4 @@
-package com.senac.sp.algoritimo1.Aula_02;
+package org.senac.ListaExerciciosAula_1;
 
 /*Leia 3 números decimais A, B e C e efetue o cálculo das raízes da equação de Bhaskara.
 Se não for possível calcular as raízes, ou seja, caso haja uma divisão por 0 ou raiz de número negativo, mostre
@@ -32,13 +32,13 @@ public class Exerc15 {
         //calculo da raiz quadrada
         double raiz = (b * b) - 4 * a * c;
 
-        if (raiz > 0 || a != 0) {
+         if (raiz > 0 || a != 0) {
             double resultadoRaiz = Math.sqrt(raiz);
-            double soluçao1 = (-b + resultadoRaiz) / (2 * a);
-            double soluçao2 = (-b - resultadoRaiz) / (2 * a);
-            System.out.println("Os valores das raízes são: " + soluçao1 + " e " + soluçao2);
+            double solu�ao1 = (-b + resultadoRaiz) / (2 * a);
+            double solu�ao2 = (-b - resultadoRaiz) / (2 * a);
+            System.out.println("Os valores das ra�zes s�o: " + solu�ao1 + " e " + solu�ao2);
         } else {
-            System.out.println("Impossível calcular");
+            System.out.println("Imposs�vel calcular");
         }
     }
 }
