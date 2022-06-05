@@ -1,4 +1,4 @@
-package com.senac.sp.algor1.ExerciciosAdos.ExerciciosAdos5;
+package org.senac.SalaDeAulaAlgoritmos.ExerciciosAdos.ExerciciosAdos5;
 //Dado um vetor de números inteiros, fazer um programa que imprime todos os elementos do vetor
 public class Exercicio_1_Vetor {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package com.senac.sp.algor1.CodigoQueFizSozinhoEstudando;
+package org.senac.SalaDeAulaAlgoritmos.CodigoQueFizSozinhoEstudando;
 
 import java.util.Scanner;
 

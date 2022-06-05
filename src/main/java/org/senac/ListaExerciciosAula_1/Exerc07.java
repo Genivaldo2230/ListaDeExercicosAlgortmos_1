@@ -2,12 +2,12 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
-package com.senac.sp.algoritimo1.Aula_02;
+package org.senac.ListaExerciciosAula_1;
 
 import java.util.Scanner;
 
 /**
- * Fazer um algoritmo que leia os dois lados A e B de um triÃ¢ngulo retÃ¢ngulo e calcula a hipotenusa do triÃ¢ngulo. Para esse caso, considere que â„ğ‘–ğ‘ğ‘œğ‘¡ğ‘’ğ‘›ğ‘¢ğ‘ ğ‘ = âˆšğ´2+ğµ2. Dica: nesse programa, vocÃª deve usar a funÃ§Ã£o matemÃ¡tica Math.sqrt(). Por exemplo, a raiz de 121 ficaria Math.sqrt(121).
+ * Fazer um algoritmo que leia os dois lados A e B de um triÃ¢ngulo retÃ¢ngulo e calcula a hipotenusa do triÃ¢ngulo. Para esse caso, considere que â„ğ?‘–ğ?‘?ğ?‘œğ?‘¡ğ?‘’ğ?‘›ğ?‘¢ğ?‘ ğ?‘ = âˆšğ??´2+ğ??µ2. Dica: nesse programa, vocÃª deve usar a funÃ§Ã£o matemÃ¡tica Math.sqrt(). Por exemplo, a raiz de 121 ficaria Math.sqrt(121).
  *
  * @author gda_a
  */

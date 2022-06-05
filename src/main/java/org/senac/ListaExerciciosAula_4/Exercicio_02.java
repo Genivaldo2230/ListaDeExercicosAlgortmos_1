@@ -1,5 +1,6 @@
-package com.mycompany.exerciciovetores;
-
+package org.senac.ListaExerciciosAula_4;
+//Dado um vetor de números reais, fazer um programa que some todos os elementos do vetor e imprima o
+//resultado.
 import java.util.Scanner;
 
 public class Exercicio_02 {

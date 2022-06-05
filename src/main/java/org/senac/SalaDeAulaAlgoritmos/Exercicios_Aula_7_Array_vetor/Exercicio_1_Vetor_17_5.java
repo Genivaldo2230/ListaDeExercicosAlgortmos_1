@@ -1,4 +1,4 @@
-package Exercicios_Aula_7_Array_vetor;
+package org.senac.SalaDeAulaAlgoritmos.Exercicios_Aula_7_Array_vetor;
 
 import java.util.Scanner;
 

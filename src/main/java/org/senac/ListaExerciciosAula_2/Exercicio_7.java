@@ -1,4 +1,4 @@
-package org.example;
+package org.senac.ListaExerciciosAula_2;
 
 //Escreva um programa que imprima todos os múltiplos de 7 menores que 200. Use o laço for
 public class Exercicio_7 {

@@ -1,6 +1,6 @@
 /*se a variável A for par escrever a 
 mensagem "Valores aceitos", senão escrever "Valores não aceitos".*/
-package com.senac.sp.algor1.aulasalgoritimos_1.ExerciciosAula_2;
+package org.senac.ListaExerciciosAula_1;
 
 import java.util.Scanner;
 

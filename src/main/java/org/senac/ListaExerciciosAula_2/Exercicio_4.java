@@ -1,4 +1,4 @@
-package org.example;
+package org.senac.ListaExerciciosAula_2;
 
 // Faça um programa que gere a seguinte série: 10, 20, 30, 40, ..., 990, 1000. Use o laço While.
 public class Exercicio_4 {

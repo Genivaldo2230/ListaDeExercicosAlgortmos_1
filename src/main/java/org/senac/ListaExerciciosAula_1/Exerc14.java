@@ -1,5 +1,5 @@
 //Fazer um algoritmo que leia dois números e imprime a divisão do maior pelo menor.
-package com.senac.sp.algor1.aulasalgoritimos_1.ExerciciosAula_2;
+package org.senac.ListaExerciciosAula_1;
 
 import java.util.Scanner;
 

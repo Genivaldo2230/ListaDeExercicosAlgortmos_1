@@ -1,8 +1,8 @@
-package com.senac.sp.algor1.ListaExerciciosAula_2;
+package org.senac.ListaExerciciosAula_2;
 
 //FaÃ§a um programa que calcule e imprima o resultado da soma abaixo (lembre-se de que tanto as divisÃµes quanto o resultado
 // devem ser decimais). Utilize o laÃ§o que lhe for mais conveniente.
-// ğ‘†ğ‘†=1+12+13+14+...+120
+// ğ?‘†ğ?‘†=1+12+13+14+...+120
 public class Exercicio_10 {
     public static void main(String[] args) {
 

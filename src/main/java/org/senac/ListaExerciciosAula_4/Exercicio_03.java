@@ -1,4 +1,4 @@
-package com.mycompany.exerciciovetores;
+package org.senac.ListaExerciciosAula_4;
 
 import java.util.Scanner;
 

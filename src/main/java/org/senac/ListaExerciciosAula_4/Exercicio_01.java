@@ -1,8 +1,8 @@
-package com.mycompany.exerciciovetores;
-
+package org.senac.ListaExerciciosAula_4;
+//Dado um vetor de números inteiros, fazer um programa que imprime todos os elementos do vetor.
 import java.util.Scanner;
 
-class Exercicio_01 {
+public class Exercicio_01 {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

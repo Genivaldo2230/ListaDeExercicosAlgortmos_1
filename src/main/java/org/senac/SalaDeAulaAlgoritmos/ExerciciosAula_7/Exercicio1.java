@@ -1,4 +1,4 @@
-package ExerAula_7_Dia17_05;
+package org.senac.SalaDeAulaAlgoritmos.ExerciciosAula_7;
 
 import java.util.Scanner;
 

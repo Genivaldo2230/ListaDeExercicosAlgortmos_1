@@ -2,7 +2,7 @@
 Escreva um programa que leia um conjunto de 10 números inteiros positivos. Seu programa
 deve determinar e imprimir o maior deles. Use o laço FOR.
  */
-package org.example;
+package org.senac.ListaExerciciosAula_2;
 
 import java.util.Scanner;
 

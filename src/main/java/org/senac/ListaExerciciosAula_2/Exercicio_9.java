@@ -1,4 +1,4 @@
-package org.senac.exercicios.algorit;
+package org.senac.ListaExerciciosAula_2;
 
 import java.util.Scanner;
 
