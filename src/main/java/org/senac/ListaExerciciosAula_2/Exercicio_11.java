@@ -1,7 +1,7 @@
-package org.senac.exercicios.algorit;
+package org.senac.ListaExerciciosAula_2;
 //FaÃ§a um programa que leia um nÃºmero natural N e calcule a soma abaixo (lembre-se de que tanto as divisÃµes quanto o
 // resultado devem ser decimais). Utilize o laÃ§o que lhe for mais conveniente.
-// ğ‘†ğ‘†=1âˆ’12+13âˆ’14+15âˆ’...+1ğ‘ğ‘
+// ğ?‘†ğ?‘†=1âˆ’12+13âˆ’14+15âˆ’...+1ğ?‘?ğ?‘?
 
 import java.util.Scanner;
 

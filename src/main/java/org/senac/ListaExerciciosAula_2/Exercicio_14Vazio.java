@@ -1,7 +1,7 @@
-package com.senac.sp.algor1.ListaExerciciosAula_2;
+package org.senac.ListaExerciciosAula_2;
 //14. FaÃ§a um programa que leia um nÃºmero natural N e calcule a soma abaixo (lembre-se de que tanto as divisÃµes
 //quanto o resultado devem ser decimais). Utilize o laÃ§o que lhe for mais conveniente.
-// ğ‘† = 1 + 2/3+4/5+6/7...+2n/(2n+1)
+// ğ?‘† = 1 + 2/3+4/5+6/7...+2n/(2n+1)
 
 public class Exercicio_14Vazio {
 }

@@ -1,4 +1,4 @@
-package com.senac.sp.algoritimo1.Aula_05_IF_ELSE.src;
+package org.senac.SalaDeAulaAlgoritmos.ExerciciosAula_5;
 
 public class teste_if_else_if {
     public static void main(String[] args) {

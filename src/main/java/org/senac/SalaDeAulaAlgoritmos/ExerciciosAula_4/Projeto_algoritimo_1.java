@@ -3,7 +3,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Project/Maven2/JavaApp/src/main/java/${packagePath}/${mainClassName}.java to edit this template
  */
 
-package com.senac.sp.algor1.aulasalgoritimos_1.ExerciciosAula_4;
+package org.senac.SalaDeAulaAlgoritmos.ExerciciosAula_4;
 
 /**
  * @author gda_a

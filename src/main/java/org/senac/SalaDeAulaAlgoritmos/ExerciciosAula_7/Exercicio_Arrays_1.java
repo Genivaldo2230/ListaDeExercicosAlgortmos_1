@@ -1,4 +1,4 @@
-package ListaDeExercicios_03;
+package org.senac.SalaDeAulaAlgoritmos.ExerciciosAula_7;
 
 import java.util.Scanner;
 

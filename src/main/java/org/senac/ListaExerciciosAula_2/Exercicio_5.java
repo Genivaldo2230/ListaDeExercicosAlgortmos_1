@@ -1,4 +1,4 @@
-package org.senac.exercicios.algorit;
+package org.senac.ListaExerciciosAula_2;
 
 //Faça um programa para imprimir os números pares entre 100 e 1, em ordem decrescente,
 // Ou seja, o laço deve iniciar em 100 e encerrar em 1. Use o laço FOR.

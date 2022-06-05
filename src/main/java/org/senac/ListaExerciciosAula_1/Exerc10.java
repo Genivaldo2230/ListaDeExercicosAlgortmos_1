@@ -1,7 +1,7 @@
 /*Faça um programa que leia o nome de um vendedor, o seu salário fixo e o total de vendas efetuadas por ele
 no mês (em dinheiro). Sabendo que este vendedor ganha 15% de comissão sobre suas vendas efetuadas,
 calcular e imprimir o total a receber no final do mês.*/
-package com.senac.sp.algor1.aulasalgoritimos_1.ExerciciosAula_2;
+package org.senac.ListaExerciciosAula_1;
 
 import java.util.Scanner;
 
