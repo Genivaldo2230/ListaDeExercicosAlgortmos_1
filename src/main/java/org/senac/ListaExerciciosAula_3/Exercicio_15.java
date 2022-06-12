@@ -5,7 +5,7 @@ import java.util.Scanner;
 //Escreva uma função que recebe, por parâmetro, dois valores X e Z e calcula e retorna X Z ( sem utilizar
 //funções ou operadores de potência prontos ).
 //Assim sendo, você não pode utilizar a função Math.pow, nem outras existentes no Java.
-public class Exercicio_15Vazio {
+public class Exercicio_15 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner( System.in );
 

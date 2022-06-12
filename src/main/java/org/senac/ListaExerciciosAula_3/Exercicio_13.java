@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 //13. Faça uma função que recebe, por parâmetro, um valor inteiro e positivo e retorna o número de divisores
 //desse valor.
-public class Exercicio_13vazio {
+public class Exercicio_13 {
     public static void main(String[] args) {
         Scanner sc = new Scanner( System.in );
 
